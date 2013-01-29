@@ -1,0 +1,11 @@
+*.o
+*.Po
+Makefile
+config*
+*.in
+src/gmediarenderer
+aclocal*
+acinclude.
+autom4te.cache/
+src/gmediarender
+stamp-h1
